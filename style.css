@@ -7,5 +7,10 @@ body {
 
 .column {
     float: left;
-    width: 50%;
+    width: 40%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
 }
