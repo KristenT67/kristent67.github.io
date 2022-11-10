@@ -4,3 +4,8 @@ h1 {
 }
 body {
 }
+
+.column {
+    float: left;
+    width: 50%;
+}
