@@ -3,7 +3,7 @@ h1 {
     font-size: xxx-large;
 }
 body {
-background-color: #f5dcdc;
+background-color: #f2dfdf;
 }
 
 .column {
@@ -14,7 +14,7 @@ background-color: #f5dcdc;
 
 img {
     max-width: 100%;
-    height: auto;
+    height: 2000px;
 }
 
 .a {
