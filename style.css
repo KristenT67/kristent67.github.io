@@ -1,6 +1,6 @@
 h1 {
-    color: blue;
-    font-size: x-large;
+    color: #7481cb;
+    font-size: xxx-large;
 }
 body {
 }
@@ -8,6 +8,7 @@ body {
 .column {
     float: left;
     width: 40%;
+    padding: 25px;
 }
 
 img {
