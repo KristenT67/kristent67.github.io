@@ -17,7 +17,7 @@ img {
     height: auto;
 }
 
-ul {
-   border: 1px solid black;
-   padding: 20px;
+.a {
+   border: 3px solid #7481cb;
+   padding: 30px;
 }
